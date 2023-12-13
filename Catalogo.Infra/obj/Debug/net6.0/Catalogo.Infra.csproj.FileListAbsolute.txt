@@ -1,0 +1,34 @@
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Infra.deps.json
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Infra.runtimeconfig.json
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Infra.dll
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Infra.pdb
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Domain.dll
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Domain.pdb
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.csproj.AssemblyReference.cache
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.AssemblyInfoInputs.cache
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.AssemblyInfo.cs
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.csproj.CoreCompileInputs.cache
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.csproj.CopyComplete
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.dll
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\obj\Debug\net6.0\refint\Catalogo.Infra.dll
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.pdb
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.genruntimeconfig.cache
+C:\Users\kleis\Downloads\Publico-master\Catalogo\Catalogo.Infra\obj\Debug\net6.0\ref\Catalogo.Infra.dll
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Infra.deps.json
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Infra.runtimeconfig.json
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Infra.dll
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Infra.pdb
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Domain.dll
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Domain.pdb
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.csproj.AssemblyReference.cache
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.AssemblyInfoInputs.cache
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.AssemblyInfo.cs
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.csproj.CoreCompileInputs.cache
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.csproj.CopyComplete
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.dll
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\obj\Debug\net6.0\refint\Catalogo.Infra.dll
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.pdb
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.genruntimeconfig.cache
+C:\Curso\Curso Web API\Catalogo SqlServer\Catalogo.Infra\obj\Debug\net6.0\ref\Catalogo.Infra.dll
